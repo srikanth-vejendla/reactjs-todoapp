@@ -1,0 +1,38 @@
+.taskInput {
+  width: 40%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 11px;
+  margin-right: 5px;
+  margin-left: 35px;
+}
+
+.taskButton {
+  padding: 10px 10px;
+  margin-left: 5px;
+  font-size: 12px;
+  background-color: rgba(6, 24, 194, 0.8);
+  color: white;
+  font-weight: bold;
+}
+
+.todoFormMain {
+  margin-top: 40px;
+  margin-left: 340px;
+}
+
+.mainBody {
+  background-image: url(../Static/img/todo1.jpg);
+  background-image: no-repeat;
+  background-size: cover;
+}
+
+.itemNote {
+  margin-bottom: 15px;
+  list-style: none;
+  padding: 15px;
+  border-radius: 5px;
+  width: 44%;
+  background-color: rgba(214, 176, 72, 0.7);
+}
