@@ -3,7 +3,6 @@ import "./Todoform.css";
 
 class DisplayNotes extends Component {
   delete = key => {
-    console.log("with in the delete method of DisplayNotes: " + key);
     this.props.deleteNote(key);
   };
 
